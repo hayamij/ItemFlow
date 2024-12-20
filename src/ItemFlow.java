@@ -1,3 +1,7 @@
+// about us
+// author: Noa-Kondo, Hayamij
+// github: https://github.com/hayamij/ItemFlow
+
 import GUI.Windows;
 
 public class ItemFlow {
