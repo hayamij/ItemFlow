@@ -1,0 +1,38 @@
+MA001, but chi, tool, 3000, 50
+MA002, but bi, tool, 5000, 100
+MA003, giay A4, stationery, 45000, 200
+MA004, keo cat giay, tool, 20000, 30
+MA005, thuoc ke, tool, 10000, 80
+MA006, bang keo, tool, 15000, 60
+MA007, sach giao khoa, book, 150000, 120
+MA008, vo o ly, stationery, 15000, 300
+MA009, bang trang, tool, 350000, 10
+MA010, cap sach, bag, 250000, 40
+MA011, may tinh cam tay, electronic, 500000, 25
+MA012, den ban hoc, electronic, 120000, 15
+MA013, ghim kep giay, tool, 2000, 500
+MA014, kep buom, tool, 5000, 400
+MA015, bang ghim, tool, 75000, 20
+MA016, file ho so, stationery, 12000, 150
+MA017, giay nho, stationery, 10000, 200
+MA018, bia cung, stationery, 3000, 100
+MA019, balo laptop, bag, 350000, 35
+MA021, may in laser, electronic, 4500000, 5
+MA022, day cap USB, electronic, 80000, 50
+MA023, chuot may tinh, electronic, 250000, 40
+MA024, ban phim, electronic, 300000, 30
+MA025, loa mini, electronic, 400000, 20
+MA026, o cung di dong, electronic, 1200000, 10
+MA027, pin sac du phong, electronic, 800000, 25
+MA028, day deo the, tool, 15000, 70
+MA029, khay dung giay, tool, 75000, 40
+MA030, but mau, stationery, 20000, 90
+MA031, sap mau, stationery, 25000, 100
+MA032, giay my thuat, stationery, 30000, 50
+MA033, but nho dong, tool, 10000, 120
+MA034, bang ve dien tu, electronic, 2500000, 15
+MA035, giay decal, stationery, 40000, 30
+MA037, sach truyen tranh, book, 100000, 70
+MA038, sach tham khao, book, 200000, 60
+
+
